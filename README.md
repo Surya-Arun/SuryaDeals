@@ -43,27 +43,27 @@ SuryaDeals is a simple mobile application built with **React Native** using **Ex
 ## App Screenshots :
 
 ## Register Screen
-![RegisterScreen] (assets/screenshots/sc1.jpg)
+![RegisterScreen](assets/screenshots/sc1.jpg)
 
 ## Login Screen
-![LoginScreen] (assets/screenshots/sc2.jpg)
+![LoginScreen](assets/screenshots/sc2.jpg)
 
 ## Dashboard Screen
-![DashboardScreen] (assets/screenshots/sc3.jpg)
+![DashboardScreen](assets/screenshots/sc3.jpg)
 
 ## Buy Screen
-![BuyScreen] (assets/screenshots/sc4.jpg)
+![BuyScreen](assets/screenshots/sc4.jpg)
  
 ## Payment Screen
-![PaymentScreen] (assets/screenshots/sc5.jpg)
+![PaymentScreen](assets/screenshots/sc5.jpg)
 
 ## Sell Screen
-![SellScreen] (assets/screenshots/sc6.jpg)
+![SellScreen](assets/screenshots/sc6.jpg)
 
 ## Dashboard (Updated) 
-![LoginScreen] (assets/screenshots/sc7.jpg)
+![LoginScreen](assets/screenshots/sc7.jpg)
 
 ## TradeHistory Screen (updated)
-![TradeHistoryScreen] (assets/screenshots/sc8.jpg)
+![TradeHistoryScreen](assets/screenshots/sc8.jpg)
 
 
